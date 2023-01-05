@@ -5,6 +5,8 @@
   A GUI tool for organizing files, based on file extension type.
   <br><br><br>
   <img width="550px" src="https://user-images.githubusercontent.com/89453098/210696394-5bd13309-794a-431a-b99b-b2c4a4354d3a.png"/>
+  <br><br>
+  This project uses <b>customtkinter</b>, a python library by TomSchimansky. Check it out here: <a href="https://github.com/TomSchimansky/CustomTkinter">Github Repository</a>
 </p>
 <br>
 
