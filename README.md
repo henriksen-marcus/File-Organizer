@@ -1,7 +1,7 @@
-# File-Organizer
-A GUI tool for organizing files, based on file extension type.
-<br><br>
-<img style="width:450px;" src="https://user-images.githubusercontent.com/89453098/210696394-5bd13309-794a-431a-b99b-b2c4a4354d3a.png"/>
+
+<p align="center">
+  <img width="400px" src="https://user-images.githubusercontent.com/89453098/210701699-9c2db040-6dcd-4553-a07f-91dfe5a0e9e0.png"/>
+</p>
 
 ## How to use:
 1. Choose a folder to organize files in
