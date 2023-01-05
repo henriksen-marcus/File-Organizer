@@ -17,7 +17,7 @@ A new folder will be created in your selected directory, the name of the folder 
 
 | Installer  | Portable |
 | ------------- | ------------- |
-| Download and run the `FileOrganizerSetup.exe` and follow the steps<br>from there. Windows shortcuts are optional so that you can run the program from the start menu.  | Download and extract the zip folder `FileOrganizer` and run `file_organizer.exe` to use the app.  |
+| Download and run the `FileOrganizerInstaller.exe` and follow the steps<br>from there. Windows shortcuts are optional so that you can run the program from the start menu.  | Download and extract the zip folder `FileOrganizerPortable` and run `file_organizer.exe` to use the app.  |
 
 <br>
 <b><a href="https://github.com/henriksen-marcus/File-Organizer/releases">Download</a></b>
