@@ -28,3 +28,13 @@ A new folder will be created in your selected directory, the name of the folder 
 
 <br>
 <b><a href="https://github.com/henriksen-marcus/File-Organizer/releases">Download</a></b>
+<br>
+
+## Future plans
+- Add option for recursive file search
+- Add option for customizing destination folder name
+- Add option for copying/moving files directly to a specified destination folder
+- Add option for deleting files
+
+Please open an issue on github should there be any.
+
