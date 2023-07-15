@@ -13,7 +13,7 @@
 ## How to use:
 1. Choose a folder to organize files in
 2. Select the type of file(s) to work with
-   - The simple search method inlcudes a set of pre-defined file types
+   - The simple search method includes a set of pre-defined file types
    - The custom search method lets you choose specific file types
 3. Choose if you want to copy the files to a new folder, or move them to a new folder
 4. Run
